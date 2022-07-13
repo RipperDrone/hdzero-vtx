@@ -1,6 +1,6 @@
 ## HDZero VTX Firmware
 
-Firmware runs on a build-in C51 MCU of DM5680 which is the Baseband chip of VTX.
+Firmware runs on a built-in C51 MCU of DM5680 which is the Baseband chip of VTX.
 
 It works on all VTXs, including VTX Whoop, VTX Whoop Lite, VTX Race V1, VTX Race V2, VTX Free Style.
 
